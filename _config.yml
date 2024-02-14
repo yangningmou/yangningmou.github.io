@@ -1,0 +1,5 @@
+title: 久世凝眸
+description: 源码功能介绍页面
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
